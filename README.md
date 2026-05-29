@@ -86,6 +86,8 @@ For the three-monitor simulator setup, the system uses a 5760 × 1080 coordinate
 
 OpenFace is an external dependency. Users must download and install OpenFace separately and follow OpenFace’s own license terms.
 
+https://github.com/TadasBaltrusaitis/OpenFace
+
 ## License
 
 This project is licensed under the MIT License. This license applies only to the code and documentation in this repository.
